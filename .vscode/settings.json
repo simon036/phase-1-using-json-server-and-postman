@@ -1,0 +1,7 @@
+{
+    "workbench.settings.useSplitJSON": true,
+    "liveServer.settings.ignoreFiles": [
+    ".vscode/**",
+    "**/db.json"
+    ],
+}
